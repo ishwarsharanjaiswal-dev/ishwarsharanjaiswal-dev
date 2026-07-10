@@ -1,6 +1,6 @@
 # Hi there, I'm Ishwar Sharan Jaiswal! 👋
 
-I am an aspiring Software Engineer and currently pursuing my **B.Tech in Computer Science & Engineering (Batch 2024-2038)** from Meerut Institute of Technology (MIT). 
+I am an aspiring Software Engineer and currently pursuing my **B.Tech in Computer Science & Engineering (Batch 2024-2028)** from Meerut Institute of Technology (MIT). 
 
 ### 🚀 About Me:
 - 💻 **Current Focus:** Building a strong foundation in Data Structures & Algorithms (DSA).
